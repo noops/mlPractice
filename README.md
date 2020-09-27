@@ -3,11 +3,11 @@
 
 
 # Table of Contents 
-1. [Overview] (#Overview)
-2. [Resources] (#Resources)
-3. [Data] (#Data)
-4. [Logistic Regression] (#Logistic-Regression)
-5. [Ensemble Classification] (#Ensemble-Classification)
+* [Overview] (#overview)
+* [Resources] (#resources)
+* [Data] (#data)
+* [Logistic Regression] (#logistic-regression)
+* [Ensemble Classification] (#ensemble-classification)
 
 
 ## Overview
