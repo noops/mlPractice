@@ -92,6 +92,6 @@ ensemble classification is the process of combining multiple models to help impr
     Average Recall (Sensitivity): 0.94
 
 3. Conclusion
-   Both of the ensemble classifiers produced high values for balanced accuracy score, average precision, and average recall. Both models return a high F1 score, the weighted average of the true positive rate, for low risk creditors. This suggests that the ensemble classifiers are good at identifying low risk creditors, but not so good at identifying high risk creditors. The adaptive boosting classifier produced the best overall results for identifying low risk creditors. 
+   Both of the ensemble classifiers produced high values for balanced accuracy score, average precision, and average recall. Both models return a high F1 score, the weighted average of the true positive rate, for low risk creditors. This suggests that the ensemble classifiers are good at identifying low risk creditors. The low F1 score for high risk creditors suggests that the ensemble classifiers used are not good for identifying high risk creditors. The adaptive boosting classifier produced the best overall results for identifying low risk creditors. 
 
 
